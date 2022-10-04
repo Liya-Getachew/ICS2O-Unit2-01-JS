@@ -3,4 +3,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Liya-Getachew/ICS2O-Unit2-01-JS)](https://repl.it/github/Liya-Getachew/ICS2O-Unit2-01-JS)
 
-This site can be found at: [https://Liya-Getachew/ICS2O-Template](https://Liya-Getachew/ICS2O-Unit2-01-JS)
+This site can be found at: [https://Liya-Getachew/ICS2O-Unit2-01-JS](https://Liya-Getachew/ICS2O-Unit2-01-JS)
